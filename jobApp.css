@@ -17,6 +17,10 @@
     -o-user-select: none;
     user-select:none;
 }
+.textarea{
+	width: 100%; 
+	max-width: 100%;
+}
 .form-control-large {
 	width: 100%; 
 	max-width: 100%;
