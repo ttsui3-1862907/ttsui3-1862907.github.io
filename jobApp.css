@@ -18,7 +18,8 @@
     user-select:none;
 }
 textarea {
-
+	width: 100%; 
+	max-width: 100%;
 }
 
 .btn-primary {
@@ -33,7 +34,7 @@ textarea {
     border-color:#285e8e;
 }
 .form-group {
-width:100%;
+	width:100%;
 }
 .form-group {
     margin-bottom:15px;
