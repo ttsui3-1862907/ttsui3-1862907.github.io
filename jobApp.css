@@ -17,7 +17,7 @@
     -o-user-select: none;
     user-select:none;
 }
-textarea {
+.textarea {
 	width: 100%; 
 	max-width: 100%;
 }
