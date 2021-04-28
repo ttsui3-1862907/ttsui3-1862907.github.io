@@ -18,8 +18,7 @@
     user-select:none;
 }
 textarea {
-    overflow: auto;
-    vertical-align:top
+
 }
 
 .btn-primary {
@@ -34,10 +33,14 @@ textarea {
     border-color:#285e8e;
 }
 .form-group {
-    display: inline-block;
-    margin-bottom: 0;
-    vertical-align:middle;
+width:100%;
 }
 .form-group {
     margin-bottom:15px;
+}
+.col-sm-3 .col-sm-9{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left:15px
 }
