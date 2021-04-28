@@ -35,6 +35,7 @@
 }
 .form-group {
 	width:100%;
+	display: inline-block;
 }
 .form-group {
     margin-bottom:15px;
